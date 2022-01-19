@@ -1,0 +1,53 @@
+{
+    "signup": {
+        "name": "Julio Cesar",
+        "cpf": "14213212345",
+        "email": "juliotseste@gmail.com",
+        "whatsapp": "1199999-3299",
+        "address": {
+            "postalCode": "07661195",
+            "street": "Rua João Puga Dias",
+            "number": "300",
+            "details": "colinas 2",
+            "district": "Terra Preta (Terra Preta)",
+            "city_state": "São Paulo/SP"
+        },
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+
+    "cpf_inv": {
+        "name": "Julio Cesar",
+        "cpf": "aa14213212345",
+        "email": "juliotseste@gmail.com",
+        "whatsapp": "1199999-3299",
+        "address": {
+            "postalCode": "07661195",
+            "street": "Rua João Puga Dias",
+            "number": "300",
+            "details": "colinas 2",
+            "district": "Terra Preta (Terra Preta)",
+            "city_state": "São Paulo/SP"
+        },
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Julio Cesar",
+        "cpf": "14213212345",
+        "email": "julio.com.br",
+        "whatsapp": "1199999-3299",
+        "address": {
+            "postalCode": "07661195",
+            "street": "Rua João Puga Dias",
+            "number": "300",
+            "details": "colinas 2",
+            "district": "Terra Preta (Terra Preta)",
+            "city_state": "São Paulo/SP"
+        },
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
